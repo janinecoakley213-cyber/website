@@ -10,8 +10,8 @@ summary: >-
   dynamic client registration, managed confidential and public clients, scopes
   and refresh tokens, and how a resource server verifies the issuer, audience,
   and signature of access tokens.
-tag: beta
 enableTableOfContents: true
+updatedOn: '2026-10-30T18:52:42.000Z'
 ---
 
 Managed Better Auth is built on [Better Auth](https://www.better-auth.com/) and can act as an OAuth 2.1 authorization server for your own apps. With the OAuth provider plugin enabled, Managed Better Auth issues access tokens to OAuth clients on behalf of your signed-in users, and your MCP server or API verifies those tokens.
